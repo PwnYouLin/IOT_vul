@@ -1,4 +1,4 @@
-# FBM-291W-19.09.11V **stack overflow**
+# FBM-291W-19.09.11V **buffer overflow**
 
 ## Firmware information
 
@@ -13,7 +13,7 @@
 
 ![image-20230706170020409](https://gitee.com/blogyoulin/img/raw/master/images/202307061700543.png)
 
-In /upgrade_filter.asp, There is stack_overflow
+In /upgrade_filter.asp, There is buffer_overflow
 
 ## Poc
 
