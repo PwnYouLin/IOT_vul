@@ -32,4 +32,4 @@ response = requests.post(url,cookies=cookie,data=data)
 #response = requests.post(url,cookies=cookie,data=data)
 print(response.text)
 ```
-
+You can see the router crash, and finally we can write an exp to get a root shell
