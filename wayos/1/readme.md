@@ -1,4 +1,4 @@
-# FBM-291W-19.09.11V **Command Injection**
+# FBM-291W-19.09.11V **Command Injection(CVE-2023-37794)**
 
 ## Firmware information
 
