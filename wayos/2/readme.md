@@ -1,4 +1,4 @@
-# FBM-291W-19.09.11V **buffer overflow**
+# FBM-291W-19.09.11V **buffer overflow(CVE-2023-37793)**
 
 ## Firmware information
 
